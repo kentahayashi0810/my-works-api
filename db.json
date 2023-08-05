@@ -11,7 +11,7 @@
         "JQuery",
         "PHP"
       ],
-      "padeCoded": "All",
+      "pageCoded": "All",
       "features": [
         "Responsive",
         "Slider",
@@ -29,7 +29,7 @@
         "",
         ""
       ],
-      "padeCoded": "",
+      "pageCoded": "",
       "features": ""
     },
     {
@@ -40,7 +40,7 @@
         "",
         ""
       ],
-      "padeCoded": "",
+      "pageCoded": "",
       "features": ""
     },
     {
@@ -51,7 +51,7 @@
         "",
         ""
       ],
-      "padeCoded": "",
+      "pageCoded": "",
       "features": ""
     },
     {
@@ -62,7 +62,7 @@
         "",
         ""
       ],
-      "padeCoded": "",
+      "pageCoded": "",
       "features": ""
     }
   ]
