@@ -1,0 +1,69 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "title": "株式会社AJC",
+      "image": "/front_frontWorks_1.png",
+      "imgDesc": "株式会社AJCウェブサイトトップページ",
+      "usedTools": [
+        "HTML",
+        "SCSS",
+        "JQuery",
+        "PHP"
+      ],
+      "padeCoded": "All",
+      "features": [
+        "Responsive",
+        "Slider",
+        "Modal Window",
+        "Blog Post Output",
+        "Accordions",
+        "Flexbox"
+      ]
+    },
+    {
+      "id": 2,
+      "image": "",
+      "imgDesc": "",
+      "usedTools": [
+        "",
+        ""
+      ],
+      "padeCoded": "",
+      "features": ""
+    },
+    {
+      "id": 3,
+      "image": "",
+      "imgDesc": "",
+      "usedTools": [
+        "",
+        ""
+      ],
+      "padeCoded": "",
+      "features": ""
+    },
+    {
+      "id": 4,
+      "image": "",
+      "imgDesc": "",
+      "usedTools": [
+        "",
+        ""
+      ],
+      "padeCoded": "",
+      "features": ""
+    },
+    {
+      "id": 5,
+      "image": "",
+      "imgDesc": "",
+      "usedTools": [
+        "",
+        ""
+      ],
+      "padeCoded": "",
+      "features": ""
+    },
+  ]
+}
